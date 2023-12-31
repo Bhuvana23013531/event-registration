@@ -66,8 +66,7 @@ feet.</div>
 font-weight: 300; word-wrap: break-word">MOBILE NUMBER</div>
 ```
 ## OUTPUT:
-![Screenshot 2023-12-31 211640](https://github.com/Bhuvana23013531/event-registration/assets/147125678/44641ac4-91b5-4dc8-aec1-0776275878e9)
-
+![Screenshot 2023-12-31 212946](https://github.com/Bhuvana23013531/event-registration/assets/147125678/b22ed927-83d4-4957-8742-7a0963cf71ca)
 
 ## Result:
    The program to design , develop and display a web for event registration is completed successfully.
