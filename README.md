@@ -70,5 +70,4 @@ font-weight: 300; word-wrap: break-word">MOBILE NUMBER</div>
 
 
 ## Result:
-    The program to design, develop and deploy a web for event registration is completed 
-successfully.
+   The program to design , develop and display a web for event registration is completed successfully.
